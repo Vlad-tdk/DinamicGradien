@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F5BF26EF2CDA44A5007E3F18 /* GradientTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GradientTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5BF26EF2CDA44A5007E3F18 /* DinamicGradient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DinamicGradient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F5BF26F12CDA44A5007E3F18 /* GradientTest */ = {
+		F5BF26F12CDA44A5007E3F18 /* DinamicGradient */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = GradientTest;
+			path = DinamicGradient;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		F5BF26E62CDA44A5007E3F18 = {
 			isa = PBXGroup;
 			children = (
-				F5BF26F12CDA44A5007E3F18 /* GradientTest */,
+				F5BF26F12CDA44A5007E3F18 /* DinamicGradient */,
 				F5BF26F02CDA44A5007E3F18 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		F5BF26F02CDA44A5007E3F18 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F5BF26EF2CDA44A5007E3F18 /* GradientTest.app */,
+				F5BF26EF2CDA44A5007E3F18 /* DinamicGradient.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F5BF26EE2CDA44A5007E3F18 /* GradientTest */ = {
+		F5BF26EE2CDA44A5007E3F18 /* DinamicGradient */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F5BF26FD2CDA44A7007E3F18 /* Build configuration list for PBXNativeTarget "GradientTest" */;
+			buildConfigurationList = F5BF26FD2CDA44A7007E3F18 /* Build configuration list for PBXNativeTarget "DinamicGradient" */;
 			buildPhases = (
 				F5BF26EB2CDA44A5007E3F18 /* Sources */,
 				F5BF26EC2CDA44A5007E3F18 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F5BF26F12CDA44A5007E3F18 /* GradientTest */,
+				F5BF26F12CDA44A5007E3F18 /* DinamicGradient */,
 			);
-			name = GradientTest;
+			name = DinamicGradient;
 			packageProductDependencies = (
 			);
 			productName = GradientTest;
-			productReference = F5BF26EF2CDA44A5007E3F18 /* GradientTest.app */;
+			productReference = F5BF26EF2CDA44A5007E3F18 /* DinamicGradient.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F5BF26EA2CDA44A5007E3F18 /* Build configuration list for PBXProject "GradientTest" */;
+			buildConfigurationList = F5BF26EA2CDA44A5007E3F18 /* Build configuration list for PBXProject "DinamicGradient" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F5BF26EE2CDA44A5007E3F18 /* GradientTest */,
+				F5BF26EE2CDA44A5007E3F18 /* DinamicGradient */,
 			);
 		};
 /* End PBXProject section */
@@ -251,8 +251,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"GradientTest/Preview Content\"";
-				DEVELOPMENT_TEAM = XKWG4AGNW6;
+				DEVELOPMENT_ASSET_PATHS = "\"DinamicGradient/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -280,8 +280,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"GradientTest/Preview Content\"";
-				DEVELOPMENT_TEAM = XKWG4AGNW6;
+				DEVELOPMENT_ASSET_PATHS = "\"DinamicGradient/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F5BF26EA2CDA44A5007E3F18 /* Build configuration list for PBXProject "GradientTest" */ = {
+		F5BF26EA2CDA44A5007E3F18 /* Build configuration list for PBXProject "DinamicGradient" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F5BF26FB2CDA44A7007E3F18 /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F5BF26FD2CDA44A7007E3F18 /* Build configuration list for PBXNativeTarget "GradientTest" */ = {
+		F5BF26FD2CDA44A7007E3F18 /* Build configuration list for PBXNativeTarget "DinamicGradient" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F5BF26FE2CDA44A7007E3F18 /* Debug */,
